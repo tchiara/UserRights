@@ -1,0 +1,131 @@
+
+[
+    {
+        "k_table": 18,
+        "name": "SYS_REFERENCES"
+    },
+    {
+        "k_table": 22,
+        "name": "SYS_MAILS"
+    },
+    {
+        "k_table": 4000,
+        "name": "DUPLICATES"
+    },
+    {
+        "k_table": 10000,
+        "name": "COMPANIES"
+    },
+    {
+        "k_table": 10100,
+        "name": "COMP$ADDRESS"
+    },
+    {
+        "k_table": 11000,
+        "name": "CONTACTS"
+    },
+    {
+        "k_table": 20000,
+        "name": "PROJECTS"
+    },
+    {
+        "k_table": 21000,
+        "name": "PUBLICATIONS"
+    },
+    {
+        "k_table": 21100,
+        "name": "PUBL$EMAILING"
+    },
+    {
+        "k_table": 22000,
+        "name": "OPPORTUNITIES"
+    },
+    {
+        "k_table": 23000,
+        "name": "CASES"
+    },
+    {
+        "k_table": 24000,
+        "name": "PROFILES"
+    },
+    {
+        "k_table": 24100,
+        "name": "PROF$EMAILING"
+    },
+    {
+        "k_table": 30000,
+        "name": "PRODUCTS"
+    },
+    {
+        "k_table": 30100,
+        "name": "PROD$ACCOUNT"
+    },
+    {
+        "k_table": 31000,
+        "name": "DOCUMENTS"
+    },
+    {
+        "k_table": 31100,
+        "name": "DOCU$INVOICING"
+    },
+    {
+        "k_table": 32000,
+        "name": "ACTIONS"
+    },
+    {
+        "k_table": 33000,
+        "name": "MAILS"
+    },
+    {
+        "k_table": 34000,
+        "name": "TIMESHEET"
+    },
+    {
+        "k_table": 40000,
+        "name": "QUERIES"
+    },
+    {
+        "k_table": 41000,
+        "name": "REPORTS"
+    },
+    {
+        "k_table": 42000,
+        "name": "TEMPLATES"
+    },
+    {
+        "k_table": 43000,
+        "name": "QUERYVIEWS"
+    },
+    {
+        "k_table": 50000,
+        "name": "EQUIPEMENTS"
+    },
+    {
+        "k_table": 51000,
+        "name": "SUPPORTS"
+    },
+    {
+        "k_table": 52000,
+        "name": "MODULES"
+    },
+    {
+        "k_table": 80026,
+        "name": "COMP$INFOS_COMPL"
+    },
+    {
+        "k_table": 80029,
+        "name": "COMP$ACT_COMMERCIALE"
+    },
+    {
+        "k_table": 80031,
+        "name": "COMP$VISITES"
+    },
+    {
+        "k_table": 80109,
+        "name": "COMP$SUPPORT"
+    },
+    {
+        "k_table": 80118,
+        "name": "OPPO$COMMISSIONS"
+    }
+]

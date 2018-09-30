@@ -1,0 +1,52 @@
+[
+    {
+        "k_user": 1,
+        "fullname": "Tout le monde",
+        "kind": "1"
+    },
+    {
+        "k_user": 5,
+        "fullname": "Consultants",
+        "kind": "1"
+    },
+    {
+        "k_user": 6,
+        "fullname": "Administration des ventes",
+        "kind": "1"
+    },
+    {
+        "k_user": 58,
+        "fullname": "Emile MARTIN",
+        "kind": "0"
+    },
+    {
+        "k_user": 60,
+        "fullname": "Developpeurs",
+        "kind": "1"
+    },
+    {
+        "k_user": 108,
+        "fullname": "Spécial",
+        "kind": "1"
+    },
+    {
+        "k_user": 125,
+        "fullname": "Manager de DP_CUSTOM",
+        "kind": "1"
+    },
+    {
+        "k_user": 99999001,
+        "fullname": "Support",
+        "kind": "1"
+    },
+    {
+        "k_user": 99999002,
+        "fullname": "Administrators",
+        "kind": "1"
+    },
+    {
+        "k_user": 99999003,
+        "fullname": "Commercial",
+        "kind": "1"
+    }
+]

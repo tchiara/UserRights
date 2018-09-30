@@ -1,0 +1,502 @@
+[
+  {
+    "k_user": 1,
+    "k_table": 18,
+    "rights": 6
+  },
+  {
+    "k_user": 1,
+    "k_table": 22,
+    "rights": 1038
+  },
+  {
+    "k_user": 1,
+    "k_table": 10000,
+    "rights": 1038
+  },
+  {
+    "k_user": 1,
+    "k_table": 10100,
+    "rights": 2
+  },
+  {
+    "k_user": 1,
+    "k_table": 11000,
+    "rights": 1038
+  },
+  {
+    "k_user": 1,
+    "k_table": 20000,
+    "rights": 2
+  },
+  {
+    "k_user": 1,
+    "k_table": 22000,
+    "rights": 2
+  },
+  {
+    "k_user": 1,
+    "k_table": 23000,
+    "rights": 2
+  },
+  {
+    "k_user": 1,
+    "k_table": 24000,
+    "rights": 2
+  },
+  {
+    "k_user": 1,
+    "k_table": 30000,
+    "rights": 2
+  },
+  {
+    "k_user": 1,
+    "k_table": 31000,
+    "rights": 1038
+  },
+  {
+    "k_user": 1,
+    "k_table": 32000,
+    "rights": 1038
+  },
+  {
+    "k_user": 1,
+    "k_table": 33000,
+    "rights": 1038
+  },
+  {
+    "k_user": 1,
+    "k_table": 40000,
+    "rights": 5134
+  },
+  {
+    "k_user": 1,
+    "k_table": 42000,
+    "rights": 2
+  },
+  {
+    "k_user": 1,
+    "k_table": 43000,
+    "rights": 1038
+  },
+  {
+    "k_user": 1,
+    "k_table": 50000,
+    "rights": 2
+  },
+  {
+    "k_user": 1,
+    "k_table": 52000,
+    "rights": 1038
+  },
+  {
+    "k_user": 1,
+    "k_table": 80026,
+    "rights": 2
+  },
+  {
+    "k_user": 5,
+    "k_table": 10000,
+    "rights": 1038
+  },
+  {
+    "k_user": 5,
+    "k_table": 10100,
+    "rights": 3145730
+  },
+  {
+    "k_user": 5,
+    "k_table": 20000,
+    "rights": 1038
+  },
+  {
+    "k_user": 5,
+    "k_table": 21000,
+    "rights": 1038
+  },
+  {
+    "k_user": 5,
+    "k_table": 21100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 5,
+    "k_table": 22000,
+    "rights": 1038
+  },
+  {
+    "k_user": 5,
+    "k_table": 23000,
+    "rights": 1038
+  },
+  {
+    "k_user": 5,
+    "k_table": 24000,
+    "rights": 2
+  },
+  {
+    "k_user": 5,
+    "k_table": 24100,
+    "rights": 3145728
+  },
+  {
+    "k_user": 5,
+    "k_table": 30000,
+    "rights": 2
+  },
+  {
+    "k_user": 5,
+    "k_table": 30100,
+    "rights": 3145730
+  },
+  {
+    "k_user": 5,
+    "k_table": 31000,
+    "rights": 1038
+  },
+  {
+    "k_user": 5,
+    "k_table": 31100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 5,
+    "k_table": 42000,
+    "rights": 1038
+  },
+  {
+    "k_user": 5,
+    "k_table": 80026,
+    "rights": 3145730
+  },
+  {
+    "k_user": 5,
+    "k_table": 80029,
+    "rights": 3145730
+  },
+  {
+    "k_user": 5,
+    "k_table": 80031,
+    "rights": 3145730
+  },
+  {
+    "k_user": 5,
+    "k_table": 80109,
+    "rights": 3145730
+  },
+  {
+    "k_user": 5,
+    "k_table": 80118,
+    "rights": 1048582
+  },
+  {
+    "k_user": 6,
+    "k_table": 80118,
+    "rights": 1048582
+  },
+  {
+    "k_user": 58,
+    "k_table": 10000,
+    "rights": 0
+  },
+  {
+    "k_user": 58,
+    "k_table": 11000,
+    "rights": 0
+  },
+  {
+    "k_user": 58,
+    "k_table": 20000,
+    "rights": 0
+  },
+  {
+    "k_user": 58,
+    "k_table": 22000,
+    "rights": 0
+  },
+  {
+    "k_user": 58,
+    "k_table": 23000,
+    "rights": 0
+  },
+  {
+    "k_user": 58,
+    "k_table": 32000,
+    "rights": 0
+  },
+  {
+    "k_user": 58,
+    "k_table": 33000,
+    "rights": 0
+  },
+  {
+    "k_user": 99999001,
+    "k_table": 23000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999001,
+    "k_table": 51000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999001,
+    "k_table": 80109,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 22,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 4000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 10000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 10100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 11000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 20000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 21000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 21100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 22000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 23000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 24000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 24100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 30000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 30100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 31000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 31100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 32000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 33000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 34000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 40000,
+    "rights": 13326
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 41000,
+    "rights": 5134
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 42000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 43000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 50000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 52000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 80026,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 80029,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 80031,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999002,
+    "k_table": 80109,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 4000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 10000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 10100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 11000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 20000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 21000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 21100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 22000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 23000,
+    "rights": 6
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 24000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 24100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 30000,
+    "rights": 1030
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 30100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 31000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 31100,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 41000,
+    "rights": 4098
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 42000,
+    "rights": 1038
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 50000,
+    "rights": 2
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 80026,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 80029,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 80031,
+    "rights": 3145734
+  },
+  {
+    "k_user": 99999003,
+    "k_table": 80118,
+    "rights": 1048582
+  }
+]

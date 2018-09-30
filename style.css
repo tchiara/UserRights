@@ -1,0 +1,23 @@
+#website
+{
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    margin: auto;
+}
+
+#lecture
+{
+    width: 400px;
+}
+
+#part2
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.espace
+{
+    margin-left:12em
+}
